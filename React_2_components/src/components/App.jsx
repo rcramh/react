@@ -31,3 +31,12 @@ function App() {
 }
 
 export default App;
+
+
+// This is the way to pass parameters to a react component
+/* <Cards
+name={contacts[2].name}
+img={contacts[2].imgURL}
+tel={contacts[2].phone}
+email={contacts[2].email}
+/> */
