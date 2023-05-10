@@ -40,3 +40,5 @@ img={contacts[2].imgURL}
 tel={contacts[2].phone}
 email={contacts[2].email}
 /> */
+
+{/* To remove the above repeatation of cards components 3 times we can use map function */}
